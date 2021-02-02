@@ -39,8 +39,5 @@ The player is a firefly. The player has to collect items to be able to see the e
 
 ## IMPORTANT
 ```
-The game isn't finished, the player can leaves the drinks and there is not many sprites in the game such as chairs and UI
-game performance is slow, ***THIS GAME IS MEANT TO BE AN EXPERIMENT TO IMPLEMENT A PATH FINDING ALGORITHM*** and that goal was successfully achieved 
-this algorithm is slow because it compares almost every cell, the algorithm will compare all cells at runtime every time a customer is created.
-***More features will be added to this game in the future***
+The game isn't finished, there are not enemies and doesn't have levels
 ```
